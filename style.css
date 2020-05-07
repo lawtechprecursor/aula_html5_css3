@@ -1,0 +1,39 @@
+
+body {
+    background: rgb(183, 175, 228);
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 100px;
+}
+
+h1 {
+    color: red;
+    font-family: fantasy, arial, impact;
+}
+
+h2 {
+    color: blue
+    font-family: fantasy;
+}
+
+p {
+    color: white
+    font-size: 24px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px
+}
+
+.img_contato {
+    margin-bottom: 15px;
+    width: 200px
+}
